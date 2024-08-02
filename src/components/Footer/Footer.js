@@ -6,7 +6,7 @@ const Footer = () => {
         marginBottom: 10,
       }}
     >
-      Made with ❤️ by 99Angels
+      Made with ❤️ by 99Angel
       
     </div>
   );
